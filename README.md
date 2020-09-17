@@ -1,2 +1,2 @@
-# Bullet-vs-wall
-sequel to GCSO
+# p5.play-boilerplate
+Boiler plate for p5.play
